@@ -21,3 +21,5 @@ https://github.com/firebase/quickstart-android/blob/375c1ae5ec9000ee71b93cee4090
 
 Cloud function for updateing a user to a "manager":
 https://medium.com/google-developers/controlling-data-access-using-firebase-auth-custom-claims-88b3c2c9352a
+
+Youtube video from Google (but scripts are in typescript) https://www.youtube.com/watch?v=3hj_r_N0qMs
